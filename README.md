@@ -195,7 +195,7 @@ Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](L
 
 ## 📞 Contacto
 
-Para preguntas, sugerencias o soporte técnico, por favor contacta al equipo de desarrollo: leonardo.rivera@sansano.usm.cl
+Para preguntas, sugerencias o soporte técnico, por favor contacta al equipo de desarrollo: proyectos@eleventechs.cl
 
 ---
 
